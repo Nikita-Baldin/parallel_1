@@ -9,7 +9,8 @@
 
 
 # Комплектующие компьютера
-![image](https://github.com/Nikita-Baldin/parallel_1/assets/114435688/690b0b16-65e2-466f-a54d-d9fcd1cbb20a)
+![image](https://github.com/Nikita-Baldin/parallel_1/assets/114435688/0a335c46-a6e6-457c-b4a4-4b65668f010f)
+
 
 
 # Результаты

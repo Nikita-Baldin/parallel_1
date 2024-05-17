@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(37,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(39,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(85,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(108,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(110,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(123,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(134,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(135,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(147,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(148,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(171,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(172,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\paral_prog_1\Source.cpp(184,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1498 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  paral_prog_1.vcxproj -> C:\Users\nikit\source\repos\paral_prog_1\Release\paral_prog_1.exe

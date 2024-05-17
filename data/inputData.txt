@@ -1,0 +1,2 @@
+Matrix size: 1000
+Lead time: 2.55553 s
